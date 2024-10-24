@@ -100,16 +100,16 @@ This VR application creates an immersive educational environment simulating a sc
    - Enhance physics simulation accuracy
 
 ## Project Requirements Checklist
-🗸  Virtual navigation via touch pad 
-🗸 Ray casting Manipulation 
-🗸 Object activation/deactivation
-🗸 Physics implementation
-🗸 Lighting controlled during the interaction
-🗸 3D audio integrated in the scene
-𐄂 Canvas + 3D TextMeshPro
-  Timer functionality (applied but non-functional)
-  Reset functionality (applied but non-functional)
-🗸 Interactive object behaviors
+  🗸  Virtual navigation via touch pad 
+  🗸 Ray casting Manipulation   
+  🗸 Object activation/deactivation  
+  🗸 Physics implementation  
+  🗸 Lighting controlled during the interaction  
+  🗸 3D audio integrated in the scene  
+  𐄂 Canvas + 3D TextMeshPro  
+    Timer functionality (applied but non-functional)  
+    Reset functionality (applied but non-functional)  
+  🗸 Interactive object behaviors  
 
 ## Scripts 
 In Project documentation File: [github.com/MAHSA-DEBANJANA/FundXR-Final-Project/blob/main/Documentation.pdf](https://github.com/MAHSA-DEBANJANA/FundXR-Final-Project/blob/main/Documentation.pdf)
