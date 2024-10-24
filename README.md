@@ -101,10 +101,9 @@ This VR application creates an immersive educational environment simulating a sc
 ✅ Ray-casting manipulation  
 ✅ Object activation/deactivation  
 ✅ Physics implementation  
-
 ❌ Timer functionality (applied but non-functional)
-❌ Reset functionality (applied but non-functional) 
 
+❌ Reset functionality (applied but non-functional) 
 ✅ Interactive object behaviors  
 
 ## Conclusion
