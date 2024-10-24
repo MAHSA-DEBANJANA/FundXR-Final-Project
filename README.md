@@ -104,7 +104,7 @@ This VR application creates an immersive educational environment simulating a sc
   🗸 Ray casting Manipulation   
   🗸 Object activation/deactivation  
   🗸 Physics implementation  
-  🗸 Lighting controlled during the interaction  
+  🗸 Lighting implementation  
   🗸 3D audio integrated in the scene  
   𐄂 Canvas + 3D TextMeshPro  
       - Timer functionality (applied but non-functional)  
