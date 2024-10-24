@@ -105,13 +105,13 @@ This VR application creates an immersive educational environment simulating a sc
    - Enhance physics simulation accuracy
 
 ## Project Requirements Checklist
-✅ Virtual navigation via touchpad  
-✅ Ray-casting manipulation  
-✅ Object activation/deactivation  
-✅ Physics implementation  
-❌ Timer functionality (applied but non-functional)  
-❌ Reset functionality (applied but non-functional)  
-✅ Interactive object behaviors  
+🗸 Virtual navigation via touchpad  
+🗸 Ray-casting manipulation  
+🗸 Object activation/deactivation  
+🗸 Physics implementation  
+𐄂 Timer functionality (applied but non-functional)  
+𐄂 Reset functionality (applied but non-functional)  
+🗸 Interactive object behaviors  
 
 ## Conclusion
 While the project successfully implements core VR interactions and educational demonstrations, technical challenges and time constraints impacted the full implementation of all planned features. The foundation for an engaging educational VR experience has been established, with clear paths for future improvements and optimizations.
