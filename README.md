@@ -1,6 +1,9 @@
 # Virtual Science Fair - Project Documentation
 ## Extended Reality Mini Project
-### Université Paris-Saclay - October 2024
+
+## Team Members
+- Mahsa NIAZI
+- Debanjana HALDAR
 
 ## Project Overview
 This VR application creates an immersive educational environment simulating a science fair with interactive physics and chemistry exhibits. Users can explore different rooms and interact with scientific demonstrations using a PICO VR headset.
