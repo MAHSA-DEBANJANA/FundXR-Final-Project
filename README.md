@@ -1,4 +1,4 @@
-# Virtual Science Fair - Project Documentation
+# Virtual Science Fair
 ## Extended Reality Mini Project
 
 ## Team Members
