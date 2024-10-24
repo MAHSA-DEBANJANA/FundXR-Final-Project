@@ -21,77 +21,72 @@ This VR application creates an immersive educational environment simulating a sc
   - Room 1: Physics Exhibit (Solar System and Gravity Demonstration)
   - Room 2: Chemistry Exhibit (Volcanic Reaction Demonstration)
 
-### Room 1: Physics Exhibit
-#### Features
+## Room 1: Physics Exhibit
+### Features
 - Interactive Solar System display
 - Gravity comparison demonstration table
 - Components:
-  - Main display table
-  - Secondary table with reset button
-  - Two interactive balls for gravity testing
-  - Designated testing zones for different gravitational fields
-
-#### Interactions
+    - Main display table
+    - Secondary table with reset button
+    - Two interactive balls for gravity testing
+    - Designated testing zones for different gravitational fields
+### Interactions
 - Ray-casting selection for objects
-- Grabbable balls for gravity testing
-- Comparative gravity zones (applied but non-functional)
+- Object manipulation through ray-casting
+- Comparative gravity zones
+- Physics-based interactions for gravity demonstration
 - Reset functionality (applied but non-functional)
 
-### Room 2: Chemistry Exhibit
-#### Features
+## Room 2: Chemistry Exhibit
+### Features
 - Interactive volcanic reaction demonstration
 - Components:
-  - Miniature volcano model
-  - Two interactive bottles:
-    - Soda bottle
-    - Vinegar bottle
-  - Chemical reaction visualization
-
-#### Interactions
+    - Miniature volcano model
+    - Two interactive bottles:
+        - Soda bottle
+        - Vinegar bottle
+    - Chemical reaction visualization
+### Interactions
+- Implementation of touchpad-based gliding/flying movement
+- Door mechanism at entrance
 - Grabbable bottles
+- Ray-casting for distant object interaction
 - Interactive pouring mechanism
-- Chemical reaction trigger system
+- Chemical reaction trigger system (applied but non-functional)
 - Reset functionality (applied but non-functional)
 
-### Core Mechanics
-1. Navigation:
-   - Implementation of touchpad-based gliding/flying movement
-   - Ray-casting for distant object interaction
-   - Direct grab mechanics for close objects
-
-2. Interaction Systems:
-   - Door mechanism at entrance
-   - Object manipulation through ray-casting
-   - Physics-based interactions for gravity demonstration
-   - Chemical reaction trigger system
-   - Timer (applied but non-functional)
-
-### Technical Implementation
-#### Working Features
+## Technical Implementation
+### Working Features
 - Ray-casting interaction system
 - Basic physics implementation
 - Object grabbing mechanics
 - Door interaction mechanism
 - Basic scene navigation
 
-#### Known Issues
+### Known Issues
 1. Reset Functionality:
-   - Reset buttons in both rooms are non-functional
-   - Scene state persistence issues
-
+    - Reset buttons in both rooms are non-functional
+    - Scene state persistence issues
+    - Canvas and TextMeshPro components not rendering properly in VR space
 2. Timer System:
-   - Implementation attempted but non-functional
-   - Integration issues with main scene
+    - Implementation attempted but non-functional
+    - Integration issues with main scene
+    - Canvas and TextMeshPro components not rendering properly in VR space
+3. Volcano reaction System
+    - Implementation attempted but non-functional
 
 ## Technical Challenges
 1. Hardware Setup:
-   - Difficulties with PICO headset configuration
-   - Limited development time due to hardware setup issues
-   - Computer compatibility challenges
-
-2. Development Constraints:
-   - Reduced tutorial and development time due to hardware setup issues
-   - Integration challenges with VR input systems
+    - Difficulties with PICO headset configuration
+    - Limited development time due to hardware setup issues
+    - Computer compatibility challenges
+2. UI Implementation:
+    - Canvas and TextMeshPro integration issues in VR space
+    - Problems with text rendering and scaling in 3D environment
+    - Difficulties in maintaining consistent UI visibility across different viewing angles
+3. Development Constraints:
+    - Reduced tutorial and development time due to hardware setup issues and limited experience
+    - Integration challenges with VR input systems
 
 ## Future Improvements
 1. Bug Fixes:
@@ -105,13 +100,19 @@ This VR application creates an immersive educational environment simulating a sc
    - Enhance physics simulation accuracy
 
 ## Project Requirements Checklist
-🗸 Virtual navigation via touchpad  
-🗸 Ray-casting manipulation  
-🗸 Object activation/deactivation  
-🗸 Physics implementation  
-𐄂 Timer functionality (applied but non-functional)  
-𐄂 Reset functionality (applied but non-functional)  
-🗸 Interactive object behaviors  
+🗸  Virtual navigation via touch pad 
+🗸 Ray casting Manipulation 
+🗸 Object activation/deactivation
+🗸 Physics implementation
+🗸 Lighting controlled during the interaction
+🗸 3D audio integrated in the scene
+𐄂 Canvas + 3D TextMeshPro
+  Timer functionality (applied but non-functional)
+  Reset functionality (applied but non-functional)
+🗸 Interactive object behaviors
+
+## Scripts 
+In Project documentation File: [github.com/MAHSA-DEBANJANA/FundXR-Final-Project/blob/main/Documentation.pdf](https://github.com/MAHSA-DEBANJANA/FundXR-Final-Project/blob/main/Documentation.pdf)
 
 ## Conclusion
 While the project successfully implements core VR interactions and educational demonstrations, technical challenges and time constraints impacted the full implementation of all planned features. The foundation for an engaging educational VR experience has been established, with clear paths for future improvements and optimizations.
