@@ -1,5 +1,4 @@
-# Virtual Science Fair
-## Extended Reality Mini Project
+# Virtual Science Fair - XR Mini Project
 
 ## Team Members
 - Mahsa NIAZI
