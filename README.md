@@ -12,7 +12,7 @@ This VR application creates an immersive educational environment simulating a sc
 We have uploaded our files in this link as GitHub doesnt allow for uploading files above 25 MB via upload
 - Google drive Folder:
   https://drive.google.com/drive/folders/1jPFQzVoNQffeWP5LZVEVIjwEzL_TUGUo?usp=drive_link
-- APK File (33.6 MB)
+- APK File (33.6 MB):
   https://drive.google.com/file/d/1kLhFemr6DCa7gSE4z_qPkMKtMKsh7DGE/view?usp=drive_link
 - Project ZIP File:
   https://drive.google.com/file/d/1thStlZVQhJDT_J5FvF4R8k53o2l-L6af/view?usp=sharing
